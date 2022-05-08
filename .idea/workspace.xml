@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d9632c9-8e90-495f-ba17-0035d67ff264" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\install\respository" />
+        <option name="mavenHome" value="D:/install/Maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\install\Maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="28e2yb5nMVbneafCqzIqbnNNLPc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BlogProject/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lee.strategy" />
+      <recent name="com.lee.factory.simpleFactory" />
+      <recent name="com.lee.singleton.demo4" />
+      <recent name="com.lee.singleton.demo3" />
+      <recent name="com.lee.singleton.demo2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Ideaprojects\Design-Pattern\src\main\java\com\lee" />
+      <recent name="D:\Ideaprojects\Design-Pattern\src\main\java\com\lee\adapter\object_adapter" />
+      <recent name="D:\Ideaprojects\Design-Pattern\src\main\java\com\lee\proxy\jdk_proxy" />
+      <recent name="D:\Ideaprojects\Design-Pattern\src\main\java\com\lee\factory\abstract_factory" />
+      <recent name="D:\Ideaprojects\Design-Pattern\src\main\java\com\lee\factory\factory_method" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client (3)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lee.proxy.cglib_proxy.Client" />
+      <module name="Design-Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lee.proxy.cglib_proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lee.template.Client" />
+      <module name="Design-Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lee.template.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lee.strategy.Client" />
+      <module name="Design-Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lee.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lee.adapter.class_adapter.Client" />
+      <module name="Design-Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lee.adapter.class_adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lee.adapter.object_adapter.Client" />
+      <module name="Design-Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lee.adapter.object_adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client (3)" />
+        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Client (6)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d9632c9-8e90-495f-ba17-0035d67ff264" name="Default Changelist" comment="" />
+      <created>1651562985305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651562985305</updated>
+      <workItem from="1651562988352" duration="6361000" />
+      <workItem from="1651633283824" duration="2847000" />
+      <workItem from="1651640806474" duration="1364000" />
+      <workItem from="1651644986148" duration="146000" />
+      <workItem from="1651839756310" duration="2072000" />
+      <workItem from="1651923708576" duration="1426000" />
+      <workItem from="1651977652245" duration="3847000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1085" y="416" key="#com.intellij.ide.util.MemberChooser" timestamp="1651978299937">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="416" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1651978299937" />
+    <state x="960" y="435" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1651563085540">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="960" y="435" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1651563085540" />
+    <state x="910" y="616" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1651839836950">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="910" y="616" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1651839836950" />
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1651924520396">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1651924520396" />
+    <state width="2517" height="370" key="GridCell.Tab.0.bottom" timestamp="1651983889763">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="370" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1651983889763" />
+    <state width="2517" height="370" key="GridCell.Tab.0.center" timestamp="1651983889763">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="370" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1651983889763" />
+    <state width="2517" height="370" key="GridCell.Tab.0.left" timestamp="1651983889762">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="370" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1651983889762" />
+    <state width="2517" height="370" key="GridCell.Tab.0.right" timestamp="1651983889763">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="370" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1651983889763" />
+    <state width="2517" height="458" key="GridCell.Tab.1.bottom" timestamp="1651637896600">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="458" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1651637896600" />
+    <state width="2517" height="458" key="GridCell.Tab.1.center" timestamp="1651637896600">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="458" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1651637896600" />
+    <state width="2517" height="458" key="GridCell.Tab.1.left" timestamp="1651637896600">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="458" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1651637896600" />
+    <state width="2517" height="458" key="GridCell.Tab.1.right" timestamp="1651637896600">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="458" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1651637896600" />
+    <state x="781" y="342" key="SettingsEditor" timestamp="1651978270476">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="342" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1651978270476" />
+    <state x="936" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1651977654562">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1651977654562" />
+    <state x="92" y="92" width="2376" height="1216" key="dock-window-1" timestamp="1651641230935">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="dock-window-1/0.0.2560.1400@0.0.2560.1400" timestamp="1651641230935" />
+    <state x="92" y="92" width="2376" height="1216" key="dock-window-2" timestamp="1651641230935">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="dock-window-2/0.0.2560.1400@0.0.2560.1400" timestamp="1651641230935" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1651841049450">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1651841049450" />
+  </component>
+</project>
