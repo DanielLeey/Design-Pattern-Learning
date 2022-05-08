@@ -1,7 +1,7 @@
 package com.lee.strategy;
 
 /**
- * 环境角色
+ * 环境角色，聚合策略类
  */
 public class SalesMan {
 
